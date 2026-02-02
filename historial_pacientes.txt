@@ -1,0 +1,28 @@
+Nombre del paciente: 
+Nombre del medico: Daniel
+Especialidad: Cardiologia
+Fecha: 15/02/2025
+Hora: 13:24
+Diagnostico: N
+Tratamiento: N
+Medicamentos: N
+Observaciones: N
+Resultados: N
+Conclusiones: N
+Recomendaciones: N
+Costo: 4500.00
+============================================
+Nombre del paciente: Paco
+Nombre del medico: Carmen
+Especialidad: Dentista
+Fecha: 14/11/2025
+Hora: 12:54
+Diagnostico: N
+Tratamiento: N
+Medicamentos: N
+Observaciones: N
+Resultados: N
+Conclusiones: N
+Recomendaciones: N
+Costo: 6000.00
+============================================
